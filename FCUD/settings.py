@@ -25,7 +25,7 @@ SECRET_KEY = 'jqr(1ns*hqkk3*6ec7zic6yxikh967=$+tg9w$6h2&yz1=j#-p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['4809f7cacbdc4c1d9f301643149066fc.vfs.cloud9.eu-west-2.amazonaws.com']
+ALLOWED_HOSTS = ['4809f7cacbdc4c1d9f301643149066fc.vfs.cloud9.eu-west-2.amazonaws.com', 'crud-app-using-class-based-view--dev.eu-west-2.elasticbeanstalk.com']
 
 
 # Application definition
